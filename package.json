@@ -1,0 +1,29 @@
+{
+  "name": "logger-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Soberek/logger-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/Soberek/logger-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soberek/logger-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.14.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.13.11"
+  }
+}

@@ -1,0 +1,2 @@
+[2025-03-22 17:38:22] [INFO] [AuthModule] - User accessed homepage 
+[2025-03-22 17:39:45] [ERROR] [DatabaseModule] - Database connection failed Error Code: 1045
